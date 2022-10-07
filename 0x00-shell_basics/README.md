@@ -12,3 +12,4 @@
 10-back returns to the previous directory
 11-lists is a script to list files in current and parent dir and boot
 12-file_type is a script to determine the type of a file
+13-symbolic-link is a script that creates a symbolic link
