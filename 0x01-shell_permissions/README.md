@@ -3,3 +3,4 @@
 2-groups is a script to list the groups of the current user
 3-new_owner
 4-empty creates an empty file
+5-execute is a script that adds execute permission
