@@ -7,3 +7,4 @@
 5-listfilesdigitonly list more info on the files a directory
 6-firstdirectory creates a directory in the tmp directory
 7-movethatfile is a script to move a file
+8-firstdelete is a script to delete a file
