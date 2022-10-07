@@ -8,3 +8,4 @@
 6-firstdirectory creates a directory in the tmp directory
 7-movethatfile is a script to move a file
 8-firstdelete is a script to delete a file
+9-firstdirdelete is a script that deletes a directory
