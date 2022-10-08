@@ -8,3 +8,4 @@
 7-everybody is a script that gives execute permission to everybody
 8-james_bond is a script to only permit others
 9-John_Doe is a script for special permission on hello
+10-mirror_permissions is a script to replicate permission of a file
