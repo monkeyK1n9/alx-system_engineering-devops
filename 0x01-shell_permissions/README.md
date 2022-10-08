@@ -11,3 +11,4 @@
 10-mirror_permissions is a script to replicate permission of a file
 11-directories_permissions is a script to change permissions of children directories
 Create dir with permission
+13-change_group is a script to change the group of a directory
