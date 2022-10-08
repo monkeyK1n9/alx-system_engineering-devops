@@ -10,3 +10,4 @@
 9-John_Doe is a script for special permission on hello
 10-mirror_permissions is a script to replicate permission of a file
 11-directories_permissions is a script to change permissions of children directories
+Create dir with permission
