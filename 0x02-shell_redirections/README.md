@@ -9,3 +9,4 @@
 8-cwd_state is a script that writes ls -l in a file
 9-duplicate_last_line is a script to duplicate the last line of a file
 10-no_more_js is a script that deletes all js files
+11-directories counts the number of directories
