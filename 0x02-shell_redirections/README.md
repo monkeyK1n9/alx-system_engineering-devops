@@ -5,3 +5,4 @@
 4-lastlines is a script that list the last 10 lines of a file
 5-firstlines is a script to display the first ten lines of a file
 6-third_line is a script that prints the 3th line in a file
+7-file is a script that creates a file
