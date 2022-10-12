@@ -11,3 +11,4 @@
 10-no_more_js is a script that deletes all js files
 11-directories counts the number of directories
 12-newest_files is ascript to list files in order of creation
+13-unique is a script that returns the unique entries in a file
