@@ -20,3 +20,4 @@
 19-AZ is a script that changes some characters of the string
 20-hiago is a script that deletes certain letters of a string
 21-reverse is a script that reverses a string
+22-users_and_homes is a script to cut and sort users and their home directories
