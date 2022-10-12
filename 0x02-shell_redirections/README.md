@@ -12,3 +12,4 @@
 11-directories counts the number of directories
 12-newest_files is ascript to list files in order of creation
 13-unique is a script that returns the unique entries in a file
+14-findthatword is a script that finds a word in a file
