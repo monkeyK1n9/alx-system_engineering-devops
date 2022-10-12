@@ -13,3 +13,4 @@
 12-newest_files is ascript to list files in order of creation
 13-unique is a script that returns the unique entries in a file
 14-findthatword is a script that finds a word in a file
+15-countthatword is a script that counts the number of times a word appears in a file
