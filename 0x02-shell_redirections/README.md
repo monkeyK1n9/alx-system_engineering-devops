@@ -14,3 +14,4 @@
 13-unique is a script that returns the unique entries in a file
 14-findthatword is a script that finds a word in a file
 15-countthatword is a script that counts the number of times a word appears in a file
+16-whatsnext is a script that list 3 lines after a search pattern
