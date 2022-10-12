@@ -16,3 +16,4 @@
 15-countthatword is a script that counts the number of times a word appears in a file
 16-whatsnext is a script that list 3 lines after a search pattern
 17-hidethisword is a script that displays all the lines that donot contain a certain word
+18-letteronly is a script that displays only lines starting with a letter
