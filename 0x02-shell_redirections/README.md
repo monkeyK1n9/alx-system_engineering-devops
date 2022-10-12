@@ -18,3 +18,4 @@
 17-hidethisword is a script that displays all the lines that donot contain a certain word
 18-letteronly is a script that displays only lines starting with a letter
 19-AZ is a script that changes some characters of the string
+20-hiago is a script that deletes certain letters of a string
