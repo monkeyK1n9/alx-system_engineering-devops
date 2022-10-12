@@ -19,3 +19,4 @@
 18-letteronly is a script that displays only lines starting with a letter
 19-AZ is a script that changes some characters of the string
 20-hiago is a script that deletes certain letters of a string
+21-reverse is a script that reverses a string
